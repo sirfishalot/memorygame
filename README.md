@@ -1,2 +1,2 @@
 # memorygame
-My memory game
+Hello! Welcome to my memory game.
